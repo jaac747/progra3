@@ -8,7 +8,7 @@
 
 #include <iostream>
 using namespace std;
-#include "Includes/Structs.h"
+#include "Structs.h"
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
