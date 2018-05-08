@@ -7,10 +7,13 @@
 
 #ifndef STRUCTS_H_
 #define STRUCTS_H_
+#include <iostream>
+#include <string>
+using namespace std;
 
 struct ArbolB{
 	int Tipo;
-	float valor;
+	string valor;
 	ArbolB *izq;
 	ArbolB *der;
 };
